@@ -24,11 +24,11 @@
 · Aviso: El objetivo de este ejercicio es la asimilación de conceptos y principios de las redes neuronales. No es objetivo alcanzar un magnífico resultado, ya que, entre otros motivos, la calidad y coherencia originales de las imágenes es muy deficiente. No esperen maravillosas métricas.  
   
 ## Exercise statement  
-· Three neural networks are requested to be created to predict the price of Airbnb rentals in Madrid:
-    -- An MLP network on the tabular data of the dataset that predicts the price.
-    -- A CNN network to predict the price based on images posted to promote each listing.
-    -- A hybrid network that merges the two previous networks to use mixed data in price prediction.
-· Notice: The objective of this exercise is the assimilation of concepts and principles of neural networks. It is not an objective to achieve a magnificent result, since, among other reasons, the original quality and coherence of the images is very poor. Don't expect wonderful metrics.
+· Three neural networks are requested to be created to predict the price of Airbnb rentals in Madrid:  
+    -- An MLP network on the tabular data of the dataset that predicts the price.  
+    -- A CNN network to predict the price based on images posted to promote each listing.  
+    -- A hybrid network that merges the two previous networks to use mixed data in price prediction.  
+· Notice: The objective of this exercise is the assimilation of concepts and principles of neural networks. It is not an objective to achieve a magnificent result, since, among other reasons, the original quality and coherence of the images is very poor. Don't expect wonderful metrics.  
   
 ---  
 
